@@ -11,4 +11,5 @@ This is a submission for class 12 CS final year project. Player can use WASD to 
 ## Installation
 ```python
 pip install pygame
+python drive.py
 ```
